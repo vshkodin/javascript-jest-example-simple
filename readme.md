@@ -1,3 +1,5 @@
+### Simple example of Testing Framework using Javascript and Jest
+
 Install Jest using yarn:
 ```
 yarn add --dev jest
