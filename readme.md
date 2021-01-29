@@ -1,4 +1,9 @@
 ### Simple example of Testing Framework using Javascript and Jest
+#### Clone project:
+```
+git clone https://github.com/vsshk/javascript-jest-example-simple.git
+cd javascript-jest-example-simple
+```
 
 Install Jest using yarn:
 ```
@@ -18,6 +23,8 @@ npm run test
 ``` 
 and Jest will print this message:
 ```
-PASS  ./sum.test.js
-✓ adds 1 + 2 to equal 3 (5ms)
+ PASS  ./test.js
+  ✓ adds 1 + 2 to equal 3 (1 ms)
 ```
+
+Please give a "star" if it helped you.
