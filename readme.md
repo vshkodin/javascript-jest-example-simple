@@ -1,4 +1,4 @@
-### Simple example of Testing Framework using Javascript and Jest
+### Simple example of Testing Framework using Javascript and Jest.
 #### Clone project:
 ```
 git clone https://github.com/vsshk/javascript-jest-example-simple.git
