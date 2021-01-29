@@ -27,4 +27,4 @@ and Jest will print this message:
   ✓ adds 1 + 2 to equal 3 (1 ms)
 ```
 
-Please give a "star" if it helped you.
+* Please give a "star" if it helped you.
